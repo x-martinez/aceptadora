@@ -1,4 +1,4 @@
-module github.com/cabify/aceptadora
+module github.com/x-martinez/aceptadora
 
 go 1.13
 
